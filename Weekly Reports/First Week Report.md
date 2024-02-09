@@ -28,7 +28,7 @@
 
 The Raspberry Pi Pico is a cost-effective microcontroller. It is high-performing, low-cost, and easy to program, making it a choice for IoT (Internet of Things) applications. It possesses features such as GPIO pins, analog inputs, I2C, SPI, which makes it suitable for integrating various sensors and devices into projects. The Raspberry Pi Pico can be programmed with MicroPython and C language support.
 
-![Raspberry Pi Pico](https://tr.farnell.com/productimages/large/en_GB/3643332-40.jpg)
+![Raspberry Pi Pico]https://market.samm.com/raspberry-pi-pico-raspberry-pi-modeller-raspberry-pi-2607-10-B.jpg)
 
 ## Pico LTE
 
