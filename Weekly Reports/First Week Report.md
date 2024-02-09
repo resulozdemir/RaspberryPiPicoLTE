@@ -28,7 +28,7 @@
 
 The Raspberry Pi Pico is a cost-effective microcontroller. It is high-performing, low-cost, and easy to program, making it a choice for IoT (Internet of Things) applications. It possesses features such as GPIO pins, analog inputs, I2C, SPI, which makes it suitable for integrating various sensors and devices into projects. The Raspberry Pi Pico can be programmed with MicroPython and C language support.
 
-![Raspberry Pi Pico](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.farnell.com%2Fraspberry-pi%2Fraspberry-pi-pico%2Fraspberry-pi-32bit-arm-cortex%2Fdp%2F3643332&psig=AOvVaw0YJNNQaexOYOp-T_P8tmkU&ust=1707572697684000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICaqZKynoQDFQAAAAAdAAAAABAE)
+![Raspberry Pi Pico](https://tr.farnell.com/productimages/large/en_GB/3643332-40.jpg)
 
 ## Pico LTE
 
@@ -39,7 +39,7 @@ The Pico LTE is an IoT development board that integrates with Raspberry Pi Pico 
 -  Supports various IoT platforms and services like AWS IoT, Azure IoT, Telegram API, ThingSpeak, and more.
 -  Offers a GNSS solution supporting various satellite systems.
 
-![Pico LTE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FSixfab-Pico-Powered-Raspberry-Projects%2Fdp%2FB0CG272GWN&psig=AOvVaw0V1aSqGS3JU1HisVFmSXl5&ust=1707572713315000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCQ-pmynoQDFQAAAAAdAAAAABAR)
+![Pico LTE](https://m.media-amazon.com/images/I/71+ReKrpytL.jpg)
 
 ## What is MicroPython?
 
