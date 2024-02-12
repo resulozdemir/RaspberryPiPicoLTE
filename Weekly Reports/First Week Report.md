@@ -10,9 +10,7 @@
 - MicroPython was installed on the Raspberry Pi Pico W.
 - The SDK was cloned from the GitHub repository, and the Pico LTE SDK installation was completed.
 - To test if everything was working properly, sample code was executed.
-
-### Challenges
-- "Unsufficient balance to activate sim." error received. Failed to activate sim on connect.sixfab.com 
+- The SIM card has been successfully registered and activated on connect.sixfab.com.
 
 ### References
 
