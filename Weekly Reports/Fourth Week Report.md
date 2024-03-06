@@ -9,6 +9,7 @@
 - Learned what parameters and certificates are required for connection.
 
 ![Alt text](<Photos/hivemq certificate 1.png>)
+![Alt text](<Photos/hivemq certificate.png 3.png>)
 ![Alt text](<Photos/hivemq certificate.png 2.png>)
 
 ### 2. Practical Application and Configuration
