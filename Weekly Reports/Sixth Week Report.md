@@ -2,7 +2,7 @@
 
 ## Tasks and Progress Status
 
-### 1. Factoring and Pushing the Code
+### 1. Editing  and Pushing the Code
 - The `hivemq.py`, `mqtt_publish.py`, and `mqtt_subscribe.py` codes were formatted according to PEP8 format using BlackFormatter.
 - Docstrings were written for functions.
 - An import line necessary for integrating HiveMQ Cloud support was added to the `core.py` file.
